@@ -1,4 +1,3 @@
-package oop2;
 
 import java.awt.Color;
 

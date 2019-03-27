@@ -1,4 +1,4 @@
-package oop2;
+
 
 public class Triangle extends Shape implements iRightAngled{
 	private double a;
