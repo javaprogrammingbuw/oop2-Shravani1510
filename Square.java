@@ -17,6 +17,7 @@ public class Square extends Shape {
 	@Override
 	public double circumference() {
 		// TODO Auto-generated method stub
+		//technically: 2*width+2*height ;)
 		return 4*width*height*width*height;
 	}
 }
